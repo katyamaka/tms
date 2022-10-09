@@ -1,0 +1,64 @@
+.main {
+  width: 100%;
+}
+.main .special-offer {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.main .special-offer .special-offer-item {
+  width: 555px;
+  height: 296px;
+  display: inline-block;
+  border: 1px solid black;
+  background: linear-gradient(257.26deg, #008bf0 -13.2%, #d943c9 130.95%);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.main .special-offer .special-offer-item .special-offer-item-text__title {
+  font-family: "Hind Siliguri", sans-serif;
+  font-family: "Hind Siliguri";
+  font-weight: 600;
+  font-size: 31px;
+  line-height: 40px;
+  color: #f4f9fc;
+  margin-left: 35px;
+}
+.main .special-offer .special-offer-item .special-offer-item-text__sale {
+  font-family: "Hind Siliguri";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 27px;
+  text-transform: uppercase;
+  color: #f4f9fc;
+  opacity: 0.6;
+  margin-top: 75px;
+  margin-left: 35px;
+}
+.main .special-offer .special-offer-item .special-offer-item-img__drone {
+  width: 270px;
+  height: 231px;
+}
+.main .special-offer .special-offer-item .special-offer-item-img__camera {
+  width: 238px;
+  height: 151px;
+}
+.main .special-offer .special-offer-item-text .special-offer-item-text__button {
+  font-family: "Hind Siliguri";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 27px;
+  text-transform: uppercase;
+  color: #f4f9fc;
+  margin-left: 35px;
+  margin-top: -10px;
+  margin-bottom: 74px;
+}
+
+.special-offer-item-text {
+  display: inline-block;
+}
+.special-offer-item-img {
+  display: inline-block;
+}
